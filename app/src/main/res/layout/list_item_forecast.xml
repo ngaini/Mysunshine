@@ -7,6 +7,6 @@
     android:layout_height="wrap_content"
     android:text="Today - Sunny - 88/63"
     android:id="@+id/list_item_forecast_textview"
-    android:minHeight="30dp"
+    android:minHeight="50dp"
     android:gravity="center_vertical"/>
 </LinearLayout>
